@@ -1,4 +1,4 @@
-# HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue, EMNLP 2023 (long, findings)
+# Muti-modal dialogue system capable of causal inference through video search and continual learning
 
 # Dataset setting
 The annotation file is in 'data' folder
@@ -30,15 +30,6 @@ bash dstc8avsd_eval/dstc8avsd_eval.sh
 ```
 
 # Acknowledgement
-This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No. 2021-0-01381, Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments) and partly supported by a grant of the KAIST-KT joint research project through AI2XL Laboratory, Institute of convergence Technology, funded by KT [Project No. G01220646, Visual Dialogue System: Developing Visual and Language Capabilities for AI-Based Dialogue Systems]
+This work was partly supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government(MSIT) (No. 2022R1A2C2012706)
 
-# Citation
-@inproceedings{yoon2023hear,
-  title={HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue},
-  author={Yoon, Sunjae and Kim, Dahyun and Yoon, Eunseop and Yoon, Hee and Kim, Junyeong and Yoo, Chang},
-  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
-  pages={11911--11924},
-  year={2023}
-}
 
-#no
